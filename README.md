@@ -6,6 +6,7 @@
   <img src="https://i.ibb.co/4ZBYCdmV/photo-2025-04-29-17-18-53-7498785849664864272.jpg" />
 </p>
 
+
 <img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
 
 <h1 align="center">Aʙᴏᴜᴛ ᴍᴇ  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></h1>
@@ -15,7 +16,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hi!%2C+I'm+Rexy+Sama;I'm++Not+a+Developer+" />
 </p>
 
----
+
+<img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
 
 ### ⚙️ Core Stats
 
@@ -27,7 +29,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anime-Weekends&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff&sideLabels=FF3C3C&sideNums=FF3C3C&dates=ffffff&border=FF3C3C&stroke=FF3C3C" />
 </p>
 
----
+
+<img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
 
 <h2 align="center">⭐ GitHub Achievements</h2>
 
@@ -41,7 +44,8 @@
   <i><b style="color:#FF3C3C;">Achievements in Anime Mode:</b> Neon. Glitch. Glory.</i>
 </p>
 
----
+
+<img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
 
 ### 💾 Anime Kernel
 
