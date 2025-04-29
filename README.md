@@ -45,15 +45,9 @@
   <img src="https://i.ibb.co/S9FG3hj/photo-2025-04-29-18-34-35-7498805357406322704.jpg" width="120" style="border-radius: 50%;" />
 </p>
 
-
-
 <img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
-### 💾 Anime Kernel
 
 <p align="center">
-  <a href="https://your-link.com" target="_blank">
-    <img src="https://i.ibb.co/MDD0N29D/photo-2025-04-29-19-09-10-7498814269463461904.jpg"
-         style="width: 300px; height: 100px; object-fit: cover; border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=48&pause=1000&color=FF3C3C&center=true&vCenter=true&width=500&lines=About+Me" />
 </p>
