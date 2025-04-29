@@ -35,9 +35,9 @@
 <h2 align="center">⭐ GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/PGgShfVw/photo-2025-04-29-17-45-22-7498792674367897616.jpg" width="120" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/nM1fxK31/photo-2025-04-29-17-47-11-7498793142519332880.jpg" width="120" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/nrTjHR7/red-trophy-3.png" width="120" />
+  <img src="https://i.ibb.co/PGgShfVw/photo-2025-04-29-17-45-22-7498792674367897616.jpg" width="120" style="border-radius: 20px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/nM1fxK31/photo-2025-04-29-17-47-11-7498793142519332880.jpg" width="120" style="border-radius: 20px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/nrTjHR7/red-trophy-3.png" width="120" style="border-radius: 20px;" />
 </p>
 
 <p align="center">
