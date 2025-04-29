@@ -54,7 +54,9 @@
 ### 💾 Anime Kernel
 
 <p align="center">
-  <a href="https://your-link-here.com" target="_blank">
-    <img src="https://i.ibb.co/MDD0N29D/photo-2025-04-29-19-09-10-7498814269463461904.jpg" width="300" height="100" style="border-radius: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);" />
+  <a href="https://your-link.com" target="_blank">
+    <img src="https://i.ibb.co/MDD0N29D/photo-2025-04-29-19-09-10-7498814269463461904.jpg" 
+         width="300" height="100" 
+         style="border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.3); object-fit: cover;" />
   </a>
 </p>
