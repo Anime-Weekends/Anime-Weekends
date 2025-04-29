@@ -19,7 +19,7 @@
 </p>
 
 
-<img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
+<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
 ### ⚙️ Core Stats
 
@@ -32,7 +32,7 @@
 </p>
 
 
-<img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
+<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 
-<img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
+<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
 ### 💾 Anime Kernel
 
