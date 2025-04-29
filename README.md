@@ -32,7 +32,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anime-Weekends&theme=dracula&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anime-Weekends&theme=darkhub&no-frame=true&no-bg=true" />
 </p>
 
 ---
