@@ -9,7 +9,7 @@
 
 <img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
 
-<h1 align="center">Aʙᴏᴜᴛ ᴍᴇ  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></h1>
+<p align="center">Aʙᴏᴜᴛ ᴍᴇ  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></p>
 
 
 <p align="center">
