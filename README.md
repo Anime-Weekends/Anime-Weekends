@@ -45,10 +45,6 @@
   <img src="https://i.ibb.co/S9FG3hj/photo-2025-04-29-18-34-35-7498805357406322704.jpg" width="120" style="border-radius: 50%;" />
 </p>
 
-<p align="center">
-  <i><b style="color:#FF3C3C;">Achievements in Anime Mode:</b> Neon. Glitch. Glory.</i>
-</p>
-
 
 <img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
