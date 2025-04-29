@@ -11,6 +11,10 @@
 
 <h1 align="center">Aʙᴏᴜᴛ ᴍᴇ  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></h1>
 
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=42&duration=3500&pause=1200&center=true&vCenter=true&width=900&height=100&color=FFFFFF&lines=About+Me;Hi!%2C+I'm+Rexy+Sama;I'm+Not+a+Developer+" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hi!%2C+I'm+Rexy+Sama;I'm++Not+a+Developer+" />
