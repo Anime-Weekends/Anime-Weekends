@@ -37,11 +37,8 @@
 <p align="center">
   <img src="https://i.ibb.co/PGgShfVw/photo-2025-04-29-17-45-22-7498792674367897616.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.ibb.co/nM1fxK31/photo-2025-04-29-17-47-11-7498793142519332880.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/nrTjHR7/red-trophy-3.png" width="120" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/S9FG3hj/photo-2025-04-29-18-34-35-7498805357406322704.jpg" width="120" style="border-radius: 50%;" />
 </p>
-<video width="320" height="240" controls>
-  <source src="https://envs.sh/Unk.mp4" type="video/mp4">
-</video>
 
 <p align="center">
   <i><b style="color:#FF3C3C;">Achievements in Anime Mode:</b> Neon. Glitch. Glory.</i>
