@@ -55,6 +55,6 @@
 
 <p align="center">
   <a href="https://your-link-here.com" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20Me-%23FF3C3C?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Click%20Me-%23FF3C3C?style=for-the-badge&logo=github&logoColor=white" width="300" height="100" />
   </a>
 </p>
