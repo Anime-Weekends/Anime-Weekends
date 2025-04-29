@@ -20,7 +20,7 @@
 ### ⚙️ Core Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=cccccc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anime-Weekends&show_icons=true&theme=transparent&hide_border=true&icon_color=FF3C3C&title_color=FF3C3C&text_color=FFFFFF" />
 </p>
 
 <p align="center">
