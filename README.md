@@ -10,18 +10,8 @@
 
 ---
 
-<h1 align="center">ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></h1>
+<h1 align="center">Aʙᴏᴜᴛ ᴍᴇ <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></h1>
 
-<div align="center">
-  <a href="https://t.me/proyato" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
-<p align="center">
-  <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-  <img src="https://profile-counter.glitch.me/proyato/count.svg" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Rexy+Sama;I'm++Not+a+Developer+" />
