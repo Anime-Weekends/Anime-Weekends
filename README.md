@@ -32,7 +32,7 @@
 <h2 align="center">⭐ GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/XFQmM1V/red-trophy-1.png" width="120" />
+  <img src="https://i.ibb.co/PGgShfVw/photo-2025-04-29-17-45-22-7498792674367897616.jpg" width="120" />
   <img src="https://i.ibb.co/0J3sRDj/red-trophy-2.png" width="120" />
   <img src="https://i.ibb.co/nrTjHR7/red-trophy-3.png" width="120" />
 </p>
