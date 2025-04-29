@@ -1,7 +1,7 @@
 <h1 align="center">✦ Welcome to the Cyber Realm ✦</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=60&duration=3000&pause=1000&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=⌬+SYSTEM+BOOTING...;⌬+LINKING+TO+NEURAL+NET...;⌬+WELCOME,+REXY+SAMA.;⌬+CYBER+REALITY+LOADED✓" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Initializing+Persona...;Loading+Cyberpunk+Shell...;Welcome+to+Neo-Tokyo" />
 </p>
 
 <p align="center">
