@@ -47,7 +47,3 @@
 
 <img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=48&pause=1000&color=FF3C3C&center=true&vCenter=true&width=500&lines=About+Me" />
-</p>
