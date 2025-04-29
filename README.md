@@ -53,9 +53,8 @@
 
 ### 💾 Anime Kernel
 
-```json
-{
-  "theme": "Cyberpunk",
-  "vibes": ["Neon", "Night City", "Glitch Effect"],
-  "anime": ["Cyberpunk: Edgerunners", "Ghost in the Shell", "Akira", "Blame!"]
-}
+<p align="center">
+  <a href="https://your-link-here.com" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Me-%23FF3C3C?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
