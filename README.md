@@ -32,18 +32,18 @@
 <h2 align="center">⭐ GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/XFQmM1V/red-trophy-1.png" width="120" style="margin:10px; filter: drop-shadow(0 0 10px red);" />
-  <img src="https://i.ibb.co/0J3sRDj/red-trophy-2.png" width="120" style="margin:10px; filter: drop-shadow(0 0 10px red);" />
-  <img src="https://i.ibb.co/nrTjHR7/red-trophy-3.png" width="120" style="margin:10px; filter: drop-shadow(0 0 10px red);" />
+  <img src="https://i.ibb.co/XFQmM1V/red-trophy-1.png" width="120" />
+  <img src="https://i.ibb.co/0J3sRDj/red-trophy-2.png" width="120" />
+  <img src="https://i.ibb.co/nrTjHR7/red-trophy-3.png" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/hWqrzqt/red-trophy-4.png" width="120" style="margin:10px; filter: drop-shadow(0 0 10px red);" />
-  <img src="https://i.ibb.co/x8PLtC2/red-trophy-5.png" width="120" style="margin:10px; filter: drop-shadow(0 0 10px red);" />
+  <img src="https://i.ibb.co/hWqrzqt/red-trophy-4.png" width="120" />
+  <img src="https://i.ibb.co/x8PLtC2/red-trophy-5.png" width="120" />
 </p>
 
-<p align="center" style="color:#FF3C3C; font-family: 'Fira Code', monospace; font-size: 16px;">
-  <i>Achievements in Anime Mode: Neon. Glitch. Glory.</i>
+<p align="center">
+  <i><b style="color:#FF3C3C;">Achievements in Anime Mode:</b> Neon. Glitch. Glory.</i>
 </p>
 
 ---
