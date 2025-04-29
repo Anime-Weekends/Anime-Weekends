@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anime-Weekends&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anime-Weekends&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff&sideLabels=FF3C3C&sideNums=FF3C3C&dates=ffffff&border=FF3C3C&stroke=FF3C3C" />
 </p>
 
 ---
