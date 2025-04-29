@@ -1,4 +1,4 @@
-<img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
+<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Initializing+Persona...;Loading+Cyberpunk+Shell...;Welcome+to+Neo-Tokyo" />
