@@ -21,7 +21,6 @@
 
 <img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
 
-### ⚙️ Core Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anime-Weekends&show_icons=true&theme=transparent&hide_border=true&icon_color=FF3C3C&title_color=FF3C3C&text_color=FFFFFF" />
