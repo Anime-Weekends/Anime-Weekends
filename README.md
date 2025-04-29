@@ -34,7 +34,7 @@
 
 <h2 align="center">⭐ GitHub Achievements</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FFFFFF&lines=Hi!%2C+I'm+Rexy+Sama;I'm++Not+a+Developer+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FFFFFF&lines=My%2C+Waifu;Collection" />
 </p>
 
 <p align="center">
