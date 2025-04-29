@@ -33,6 +33,9 @@
 <img src="https://ezgif.com/save/ezgif-65b544968d2870.gif">
 
 <h2 align="center">⭐ GitHub Achievements</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FFFFFF&lines=Hi!%2C+I'm+Rexy+Sama;I'm++Not+a+Developer+" />
+</p>
 
 <p align="center">
   <img src="https://i.ibb.co/PGgShfVw/photo-2025-04-29-17-45-22-7498792674367897616.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
