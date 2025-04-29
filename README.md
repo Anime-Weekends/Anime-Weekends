@@ -38,11 +38,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/hWqrzqt/red-trophy-4.png" width="120" />
-  <img src="https://i.ibb.co/x8PLtC2/red-trophy-5.png" width="120" />
-</p>
-
-<p align="center">
   <i><b style="color:#FF3C3C;">Achievements in Anime Mode:</b> Neon. Glitch. Glory.</i>
 </p>
 
