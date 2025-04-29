@@ -22,8 +22,11 @@
 ### ⚙️ Core Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FFFF&title_color=00FFFF" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=false&border_radius=20&icon_color=00ffff&title_color=ff2cc2&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight_duo&hide_border=false&ring=ff2cc2&fire=00ffff&currStreakLabel=ffffff" />
 </p>
 
 ---
