@@ -1,4 +1,4 @@
-<img src="https://ibb.co/8gLCcZcY">
+<img src="https://ezgif.com/save/ezgif-1b13c8842d857d.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hey+baby+Welcome+to+my+Bio" />
@@ -9,7 +9,7 @@
 </p>
 
 
-<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
+<img src="https://ezgif.com/save/ezgif-1b13c8842d857d.gif">
 
 <p align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></p>
 
@@ -19,7 +19,7 @@
 </p>
 
 
-<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
+<img src="https://ezgif.com/save/ezgif-1b13c8842d857d.gif">
 
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 
-<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
+<img src="https://ezgif.com/save/ezgif-1b13c8842d857d.gif">
 
 
 <p align="center">
@@ -45,5 +45,5 @@
   <img src="https://i.ibb.co/S9FG3hj/photo-2025-04-29-18-34-35-7498805357406322704.jpg" width="120" style="border-radius: 50%;" />
 </p>
 
-<img src="https://ezgif.com/save/ezgif-459e1274ad949e.gif">
+<img src="https://ezgif.com/save/ezgif-1b13c8842d857d.gif">
 
