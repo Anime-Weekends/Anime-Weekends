@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/cKJcRrWk">
+<img src="https://ibb.co/8gLCcZcY">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hey+baby+Welcome+to+my+Bio" />
