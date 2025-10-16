@@ -55,4 +55,4 @@
 <img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
     
 > [!CAUTION]
-> _```Life is like an anime
+> _```Life is like an anime```
