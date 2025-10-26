@@ -38,13 +38,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=48&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FFFFFF&lines=My%2C+Waifu+Collection" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/PGgShfVw/photo-2025-04-29-17-45-22-7498792674367897616.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/nM1fxK31/photo-2025-04-29-17-47-11-7498793142519332880.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/fzHjLTXX/photo-2025-04-29-18-37-54-7498806212104814608.jpg" width="120" style="border-radius: 50%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/S9FG3hj/photo-2025-04-29-18-34-35-7498805357406322704.jpg" width="120" style="border-radius: 50%;" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
