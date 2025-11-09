@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=60&duration=2500&pause=1000&center=true&vCenter=true&width=1080&height=120&color=FFFFFF,FFFFFF,F0F0F0&lines=Hey+Bro|Sis+Welcome+to+my+Readme| " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=60&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1080&height=120&lines=Hey+Bro|Sis+Welcome+to+my+Readme| " alt="Typing SVG" />
 </p>
 
 <p align="center">
