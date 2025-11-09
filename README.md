@@ -31,10 +31,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
-    
-> [!CAUTION]
-> ```Life is like an anime```
+> [!WARNING]
+> ```User Is ***** Error 404```
