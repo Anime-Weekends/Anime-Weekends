@@ -21,11 +21,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anime-Weekends&show_icons=true&theme=transparent&hide_border=true&icon_color=FF3C3C&title_color=FF3C3C&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anime-Weekends&show_icons=true&theme=transparent&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anime-Weekends&theme=github-dark&hide_border=true&ring=FF3C3C&fire=FF3C3C&currStreakLabel=ffffff&sideLabels=FF3C3C&sideNums=FF3C3C&dates=ffffff&border=FF3C3C&stroke=FF3C3C" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anime-Weekends&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=FFFFFF&stroke=FFFFFF" />
 </p>
 
 
