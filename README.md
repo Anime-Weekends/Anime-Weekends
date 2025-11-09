@@ -10,8 +10,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+ 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&duration=3500&pause=9999999&center=true&vCenter=true&width=800&height=80&color=FFFFFF&repeat=false&lines=Myself+Rexy" alt="Typing SVG" />
