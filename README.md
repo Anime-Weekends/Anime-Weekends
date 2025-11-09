@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=55&duration=4000&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=1080&height=120&repeat=false&lines=Hey+There.+Glad+to+Have+You+Here" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=55&duration=4000&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=1080&height=120&repeat=false&lines=Hey+There+Glad+to+Have+You+Here" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22" /></p>
+<p align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
 
 
 <p align="center">
