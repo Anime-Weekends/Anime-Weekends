@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hi!%2C+I'm+Rexy+Sama;I'm+a+Developer+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&duration=3500&pause=9999999&center=true&vCenter=true&width=800&height=80&color=FFFFFF&repeat=false&lines=Myself+Rexy" alt="Typing SVG" />
 </p>
 
 
