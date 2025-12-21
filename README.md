@@ -19,16 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github-readme-stats.vercel.app/api
-?username=Anime-Weekends
-&show_icons=true
-&theme=transparent
-&hide_border=true
-&icon_color=FFFFFF
-&title_color=FFFFFF
-&text_color=FFFFFF
-&include_all_commits=true
-&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anime-Weekends&show_icons=true&theme=transparent&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anime-Weekends&show_icons=true&theme=transparent&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" />
