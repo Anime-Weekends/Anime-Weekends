@@ -11,22 +11,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=50&duration=3500&pause=9999999&center=true&vCenter=true&width=800&height=80&color=FFFFFF&repeat=false&lines=Myself+Rexy" alt="Typing SVG" />
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anime-Weekends&show_icons=true&theme=transparent&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anime-Weekends&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=FFFFFF&stroke=FFFFFF" />
-</p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
